@@ -1,2 +1,2 @@
 # demo-games
-Basic Rock , Paper &amp; Scissor Game
+Basic Rock , Paper , Scissor Game on java 
